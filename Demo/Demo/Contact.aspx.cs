@@ -24,5 +24,9 @@ namespace Demo
         {
             return "Get Completed";
         }
+        private void PrintHelloWorld()
+        {
+            Response.Write("Hello World");
+        }
     }
 }
