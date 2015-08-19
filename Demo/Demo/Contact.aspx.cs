@@ -12,6 +12,7 @@ namespace Demo
         protected void Page_Load(object sender, EventArgs e)
         {
             Response.Write("abcd");
+            Response.Write("abcd1");
         }
     }
 }
