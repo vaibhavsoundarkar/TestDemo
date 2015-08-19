@@ -20,5 +20,10 @@ namespace Demo
 
             Response.Write("dsjflkdskfjdslk");
         }
+
+        private void PrintHelloWorld()
+        {
+            Response.Write("Hello World");
+        }
     }
 }
