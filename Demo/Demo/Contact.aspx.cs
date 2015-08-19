@@ -28,5 +28,10 @@ namespace Demo
         {
             Response.Write("Hello World");
         }
+
+        private void NewF()
+        {
+            Response.Write("Hello World");
+        }
     }
 }
