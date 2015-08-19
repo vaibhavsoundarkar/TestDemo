@@ -20,5 +20,9 @@ namespace Demo
 
             Response.Write("dsjflkdskfjdslk");
         }
+        private string SEtMessage()
+        {
+            return "Get Completed";
+        }
     }
 }
